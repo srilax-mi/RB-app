@@ -1,3 +1,3 @@
-const baseUrl = 'http://localhost:3000'
+const baseUrl = 'https://rb-server-uq04.onrender.com'
 
 export default baseUrl
